@@ -34,14 +34,14 @@ If you need your traffic stats to be more accurate, you should use the Automatic
 
 
 1. Create a robots.php file on the root directory of your blog: ie public_html/your-blog/
-Paste the following code in it:
+Paste the following code without // in it:
 
-<?php
-session_start();
-$_SESSION['wtcrobot'] = 1;
-echo file_get_contents('robots.txt');
-exit;
-?>
+//<?php
+//session_start();
+//$_SESSION['wtcrobot'] = 1;
+//echo file_get_contents('robots.txt');
+//exit;
+//?>
 
 1. Open .htaccess file in the same directory and paste this in it:
 
