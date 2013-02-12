@@ -9,7 +9,7 @@ Stable tag: trunk
 PHP Version: 5.2.9
 MySql Version: 5.0.91-community
 Author: Helen
-Contributors: Mark
+Contributors: jhon
 
 
 TSW lets your users know how much traffic you have on your blog. It counts pages visited, hits and unique IPs on your blog and shows it in a widget. It also shows the number of users currently online.
@@ -62,8 +62,8 @@ Traffic Stats Widget does not have a settings section on Admin page. However, yo
 
 == Screenshots ==
 
-1.On the blog the widget looks like this:
-2.Admin Page
+1. On the blog the widget looks like this
+2. Admin Page
 
 == Changelog ==
 * 1.0

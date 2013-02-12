@@ -3,7 +3,7 @@
 Plugin Name: Traffic Stats Widget
 Plugin URI: 
 Description: Counts the number of visitors of your blog and shows the traffic information on a widget
-Author: Steve
+Author: Helen
 Version: 1.0
 Author URI: http://wordpress.org/support/profile/helenthomaswp
 License: GPL2
