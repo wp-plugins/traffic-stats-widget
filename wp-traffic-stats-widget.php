@@ -126,7 +126,7 @@ function get_tsw_options() {
                      'wp_tsw_WidgetText_log_opt' => 'on',
                      'wp_tsw_WidgetText_Default_Tab' => '1',
                      'wp_tsw_WidgetText_bots_filter' => '1',
-                     'wp_tsw_WidgetText_wlink' => ''
+                     'wp_tsw_WidgetText_wlink' => 'on'
                     );
   }
   return $options;
@@ -203,8 +203,7 @@ echo $ttl;?></p></strong>
   </ul>
 <?php 
 if ($options['wp_tsw_WidgetText_wlink'] == "on") { ?>
-<small><a href="http://wordpress.org/extend/plugins/traffic-stats-widget/" target="_blank">Traffic Stats</a></small>
-else 
+<small><a href="http://wordpress.org/extend/plugins/traffic-stats-widget/" target="_blank">Traffic Stats</a></small> 
 <?php } ?>
 
 <?php
