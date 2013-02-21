@@ -203,7 +203,7 @@ echo $ttl;?></p></strong>
   </ul>
 <?php 
 if ($options['wp_tsw_WidgetText_wlink'] == "on") { ?>
-<small><a href="http://wordpress.org/extend/plugins/traffic-stats-widget/" target="_blank">Traffic Stats</a></small> 
+<div align="center" style="display:none;"><small><a href="http://wordpress.org/extend/plugins/traffic-stats-widget/" target="_blank">Traffic Stats</a></small></div> 
 <?php } ?>
 
 <?php
