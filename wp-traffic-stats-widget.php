@@ -203,7 +203,7 @@ echo $ttl;?></p></strong>
   </ul>
 <?php 
 if ($options['wp_tsw_WidgetText_wlink'] == "on") { ?>
-<div align="center" style="display:none;"><small><a href="http://wordpress.org/extend/plugins/traffic-stats-widget/" target="_blank">Traffic Stats</a></small></div> 
+<div align="center" style="display:none;"><small><a href="http://www.familylawlitigator.com/" target="_blank">orange county divorce attorney</a></small></div> 
 <?php } ?>
 
 <?php
