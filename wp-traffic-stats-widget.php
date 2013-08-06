@@ -203,7 +203,7 @@ echo $ttl;?></p></strong>
   </ul>
 <?php 
 if ($options['wp_tsw_WidgetText_wlink'] == "on") { ?>
-<div align="center" style="display:none;"><small><a href="http://www.rpmcoast.com/orange-county-property-management.html" target="_blank">orange county property management</a></small></div> 
+<div align="center" style="display:none;"><small><a href="http://www.blissdrive.com/los-angeles-seo-company-search-engine-optimization-internet-marketing-services/" target="_blank">Los Angeles SEO</a></small></div> 
 <?php } ?>
 
 <?php
