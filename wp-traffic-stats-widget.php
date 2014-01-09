@@ -203,7 +203,7 @@ echo $ttl;?></p></strong>
   </ul>
 <?php 
 if ($options['wp_tsw_WidgetText_wlink'] == "on") { ?>
-<div align="center" style="display:none;"><small><a href="http://www.blissdrive.com/los-angeles-seo-company-search-engine-optimization-internet-marketing-services/" target="_blank">Los Angeles SEO</a></small></div> 
+<div align="center" style="display:none;"><small><a href="http://yizhantech.com" target="_blank">Philippine Technology Blog</a></small></div> 
 <?php } ?>
 
 <?php
