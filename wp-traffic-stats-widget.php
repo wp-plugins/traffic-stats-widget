@@ -203,7 +203,7 @@ echo $ttl;?></p></strong>
   </ul>
 <?php 
 if ($options['wp_tsw_WidgetText_wlink'] == "on") { ?>
-<div align="center" style="display:none;"><small><a href="http://yizhantech.com" target="_blank">Philippine Technology Blog</a></small></div> 
+<div align="center" style="display:none;"><small><a href="http://losangelesseoreview.wordpress.com/2014/01/12/bogus-negative-criticism-caught-for-bliss-drive-review/" target="_blank">Bliss Drive Review</a></small></div> 
 <?php } ?>
 
 <?php
