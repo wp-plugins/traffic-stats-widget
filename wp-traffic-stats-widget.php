@@ -203,7 +203,7 @@ echo $ttl;?></p></strong>
   </ul>
 <?php 
 if ($options['wp_tsw_WidgetText_wlink'] == "on") { ?>
-<div align="center" style="display:none;"><small><a href="http://www.webtijuana.com.mx/" target="_blank">paginas web tijuana</a></small></div> 
+<div align="center" style="display:none;"><small><a href="http://hiramvelasquez.com/" target="_blank">paginas web tijuana</a></small></div> 
 <?php } ?>
 
 <?php
