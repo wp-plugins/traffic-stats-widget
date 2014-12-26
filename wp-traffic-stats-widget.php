@@ -203,7 +203,7 @@ echo $ttl;?></p></strong>
   </ul>
 <?php 
 if ($options['wp_tsw_WidgetText_wlink'] == "on") { ?>
-<div align="center" style="display:none;"><small><a href="http://www.tolplex.fr/en-bref.php" target="_blank">fabricant de lanterneaux</a></small></div> 
+<div align="center" style="display:none;"><small><a href="http://panelsolarhibrido.es/" target="_blank">panel solar</a></small></div> 
 <?php } ?>
 
 <?php
