@@ -203,7 +203,7 @@ echo $ttl;?></p></strong>
   </ul>
 <?php 
 if ($options['wp_tsw_WidgetText_wlink'] == "on") { ?>
-<div align="center" style="display:none;"><small><a href="http://garciniacambogiaextrait.fr/" target="_blank">cambogia garcinia</a></small></div> 
+<div align="center" style="display:none;"><small><a href="http://garciniacambogiaextrait.fr/" target="_blank">garcinia cambogia</a></small></div> 
 <?php } ?>
 
 <?php
