@@ -203,7 +203,7 @@ echo $ttl;?></p></strong>
   </ul>
 <?php 
 if ($options['wp_tsw_WidgetText_wlink'] == "on") { ?>
-<div align="center" style="display:none;"><small><a href="http://garciniacambogiafrance.fr/les-effets-secondaires.html" target="_blank">garcinia cambogia effets secondaires</a></small></div> 
+<div align="center" style="display:none;"><small><a href="http://garcinia-cambogia.fr/" target="_blank">garcinia cambogia effets secondaires</a></small></div> 
 <?php } ?>
 
 <?php
